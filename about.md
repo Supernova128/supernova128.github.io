@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Based off the minima theme
-[minima](https://github.com/jekyll/minima)
+Hi, I'm Devansh Agarwal. I'm a recent graduate of Penn State where I obtained a Bachelor in Data Science, Mathematics, and Economics. I am currently looking for jobs in the Tech and Finance industries.
+
+Based off the [minima](https://github.com/jekyll/minima) theme
 
